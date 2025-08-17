@@ -92,11 +92,10 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 
 ## OUTPUT:
 ### CLIENT OUTPUT:
-<img width="582" height="332" alt="image" src="https://github.com/user-attachments/assets/730ef323-5b83-40f6-8b50-d9aa5f5ac306" />
+
 
 
 ### SERVER OUTPUT:
-<img width="556" height="108" alt="image" src="https://github.com/user-attachments/assets/39c19318-c459-4cca-8afe-0225abd81d0d" />
 
 
 
